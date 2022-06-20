@@ -14,16 +14,16 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+Christian Camacho's Cloud Journey
 
-[✍️ Introduce yourself]
+I started my journey mid January of 2022. Decide to shake things up and get into cloud. Aprehensive but knew it was worth the risk!
 
-[✍️ Tell us why you started this challenge]
+I'm starting this challenge because I want to apply the knowledge I 've obtain studying and doing labs! Also , to connect with people in this space/community!
 
-[✍️ Tell us where you want to be at the end of the challenge]
+I honestly just want to be at a point where I am confident in what I know and that I am deserving of a job in this field!
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- https://twitter.com/camchris101
+- https://www.linkedin.com/in/christian-camacho-060406237/
 
 ## Stepping out the door
 

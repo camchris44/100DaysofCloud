@@ -1,15 +1,18 @@
 **Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![placeholder image](https://thesweetsetup.com/wp-content/themes/thesweetsetup/img/day-one-in-depth-website-cover.jpg)
 
-# New post title here
+
+Creating a new website for sister's ideas.
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+For my project I 've decided that I am going to host a website for my sister!
+I plan on hosting it on the cloud and go from there!
 
 ## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+After googling  what is need to develop a website I found and article https://www.codeconquest.com/website/what-is-needed-for-a-website/
+Gave me points of emphasis like HTML & CSS Website Scripting Web Browsers and how they render html & css differently
+Domain and Hosting FTP and optional Analytics Software Search Engine Optimization and Validation.With that Lets go!
 
 ## Use Case
 
